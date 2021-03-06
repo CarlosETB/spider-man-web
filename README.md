@@ -2,12 +2,12 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![GitHub issues](https://img.shields.io/github/issues-raw/CarlosETB/todolist-redux-web.svg?style=flat-square)](https://github.com/CarlosETB/todolist-redux-web/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/CarlosETB/todolist-redux-web.svg?style=flat-square)](https://github.com/CarlosETB/todolist-redux-web/commits/master)
-![GitHub language count](https://img.shields.io/github/languages/count/CarlosETB/todolist-redux-web?style=flat-square)
-![GitHub repository size](https://img.shields.io/github/repo-size/CarlosETB/todolist-redux-web?style=flat-square)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square)](https://github.com/CarlosETB/todolist-redux-webb/stargazers)
-[![Made by Rocketseat](https://img.shields.io/badge/made%20by-Rocketseat-%2385fe987v?style=flat-square)](https://nyousefali.com.br/)
+[![GitHub issues](https://img.shields.io/github/issues-raw/CarlosETB/todolist-redux-web.svg)](https://github.com/CarlosETB/todolist-redux-web/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/CarlosETB/todolist-redux-web.svg)](https://github.com/CarlosETB/todolist-redux-web/commits/master)
+![GitHub language count](https://img.shields.io/github/languages/count/CarlosETB/todolist-redux-web)
+![GitHub repository size](https://img.shields.io/github/repo-size/CarlosETB/todolist-redux-web)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/CarlosETB/todolist-redux-webb/stargazers)
+[![Made by Rocketseat](https://img.shields.io/badge/made%20by-Rocketseat-%2385fe987v)](https://nyousefali.com.br/)
 
 <!-- PROJECT LOGO -->
 
