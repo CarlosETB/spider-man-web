@@ -7,7 +7,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/CarlosETB/todolist-redux-web?style=flat-square?color=%2304D361)
 ![GitHub repository size](https://img.shields.io/github/repo-size/CarlosETB/todolist-redux-web?style=flat-square)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square)](https://github.com/CarlosETB/todolist-redux-webb/stargazers)
-[![Made by Násser Yousef Ali](https://img.shields.io/badge/made%20by-Násser_Yousef_Ali?style=5fe987v)](https://nyousefali.com.br/)
+[![Made by Rocketseat](https://img.shields.io/badge/made%20by-Rocketseat-%2385fe987v?style=flat-square)](https://nyousefali.com.br/)
 
 <!-- PROJECT LOGO -->
 
