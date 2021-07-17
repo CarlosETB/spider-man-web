@@ -45,8 +45,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[Tilt](https://gijsroge.github.io/tilt.js/)**
 - **[GreenSock](https://greensock.com/docs/v2/)**
 
-\* Veja o arquivo <kbd>[package.json](./package.json)</kbd>
-
 <br />
 
 <!-- LICENSE -->
