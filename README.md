@@ -7,7 +7,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/CarlosETB/spider-man-web?style=flat-square)
 ![GitHub repository size](https://img.shields.io/github/repo-size/CarlosETB/spider-man-web?style=flat-square)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square)](https://github.com/CarlosETB/spider-man-web/stargazers)
-[![Made by Rocketseat](https://img.shields.io/badge/made%20by-Násser_Yousef-%235fe36a?style=flat-square)](https://nyousefali.com.br/)
+[![Made by Nasser](https://img.shields.io/badge/made%20by-Násser_Yousef-%235fe36a?style=flat-square)](https://nyousefali.com.br/)
 
 <!-- PROJECT LOGO -->
 
